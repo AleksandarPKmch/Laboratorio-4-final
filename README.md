@@ -1,0 +1,1 @@
+Para ejecutar el codigo te vas a Main.java, y arriba de "public static void main(String[] args)" debe salir una lista para ejecutar, se da click en el boton de |Run|, ahi ejecuta el codigo, si le das en Run Main petatea todo, pero funciona en ese boton de Run# Laboratorio-4-final
